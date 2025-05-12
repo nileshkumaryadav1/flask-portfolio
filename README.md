@@ -9,5 +9,5 @@ This is a simple personal portfolio website built using [Flask](https://flask.pa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask-portfolio.git
+git clone https://github.com/nileshkumaryadav1/flask-portfolio.git
 cd flask-portfolio
